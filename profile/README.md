@@ -1,12 +1,10 @@
-## Hi there 👋
+![Open Source Geoplateforme](https://github.com/Geoplateforme/.github/assets/16741984/b900fab3-5b28-42ef-8539-9abf23e83ad5) 
 
-<!--
 
-**Here are some ideas to get you started:**
+## L'Open Source de la Geoplateforme 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Vous trouverez ici tous les composants Open Source développés dans le cadre de la Geoplateforme.
+N'hésitez pas à contribuer, partager, vous inspirer de tout cela pour développer l'utilisation de l'Information Geogrpahique.
+
+* [Informations sur la Geoplateforme](https://www.ign.fr/geoplateforme)
+----
